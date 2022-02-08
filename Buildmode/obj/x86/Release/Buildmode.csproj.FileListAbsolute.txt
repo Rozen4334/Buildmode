@@ -1,0 +1,14 @@
+C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.csproj.CoreCompileInputs.cache
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\Buildmode.dll
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\Buildmode.pdb
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\OTAPI.dll
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\TerrariaServer.exe
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\TShockAPI.dll
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\OTAPI.pdb
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\TerrariaServer.pdb
+C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.csproj.CopyComplete
+C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.dll
+C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.pdb
+C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.csprojAssemblyReference.cache
