@@ -124,11 +124,7 @@ namespace Buildmode
 
                             time = 27000;
 
-                            if (_state[i])
-                                day = true;
-
-                            else
-                                day = false;
+                            day = _state[i];
                         }
 
                         else
