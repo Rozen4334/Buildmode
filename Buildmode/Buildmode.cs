@@ -67,7 +67,11 @@ namespace Buildmode
         private void Refresh(object unused, ElapsedEventArgs args)
         {
             foreach (int i in _enabled)
-                Effects(i);
+            {
+                var plr = TShock.Players[i];
+                foreach (var buff in Data.Read(i))
+                    plr.SetBuff(buff, 120);
+            }
         }
 
         private void OnUpdate(EventArgs args)
@@ -382,13 +386,6 @@ namespace Buildmode
                     TSPlayer.All.SendMessage(string.Format("{0} set the server time to {1}:{2:D2}.", args.Player.Name, hours, minutes), Color.CornflowerBlue);
                     break;
             }
-        }
-
-        private void Effects(int player)
-        {
-            var plr = TShock.Players[player];
-            foreach (var buff in Data.Read(player))
-                plr.SetBuff(buff, 120);
         }
 
         private void SetTime(bool dayTime, double time)
